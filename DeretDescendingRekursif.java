@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tugas1 {
+public class DeretDescendingRekursif {
     static void descendingRekursif(int n){
         if (n< 0){
             return;

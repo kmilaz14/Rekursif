@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tugas3 {
+public class Fibonacci {
     static int fibonacci(int bulan){
         if (bulan == 1 || bulan==2) {
             return 1;
